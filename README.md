@@ -30,7 +30,7 @@ This project focuses on the **design and implementation of a secure hospital sys
 6. Tested the network for connectivity and performance.  
 
 ## 📸 Screenshots 
-
+![Screenshot](Project-img.png)
 
 ## ✅ Outcomes  
 - Secure and reliable hospital network for departmental communication.  
