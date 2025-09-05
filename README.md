@@ -19,7 +19,7 @@ This project focuses on the **design and implementation of a secure hospital sys
 
 ## 📂 Project Files  
 - `Hospital_Network.pkt` → Cisco Packet Tracer project file  
-- `/screenshots` → Contains topology diagrams and configurations  
+- `Project_report.docx` → Contains topology diagrams and configurations  
 
 ## 🚀 Implementation Steps  
 1. Designed network topology with routers, switches, and end devices.  
